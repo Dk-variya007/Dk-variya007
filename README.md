@@ -68,7 +68,7 @@ I'm a Full Stack Mobile Application Developer skilled in Flutter. My passion for
 </p>
  
 <p>
-<a href="https://github.com/itsyogihr13"><span>
+<a href="https://github.com/dk-variya007"><span>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dk-variya007&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dk-variya007&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
