@@ -64,8 +64,9 @@ I'm a Full Stack Mobile Application Developer skilled in Flutter. My passion for
 </p>
 
 <p align="center" >
-<img src="http://github-readme-streak-stats.herokuapp.com?username=dk-variya007&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dk-variya007&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
 </p>
+
  
 <p>
 <a href="https://github.com/dk-variya007"><span>
